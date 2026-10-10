@@ -17,7 +17,7 @@ Python, NumPy, Matplotlib, Jupyter Notebook.
 
 # Main findings
 
-The project compares numerical differentiation methods and investigates the trade-off between simulation accuracy and computational cost.
+The project compares numerical integration methods and investigates the trade-off between simulation accuracy and computational cost.
 
 # Notebook
 
